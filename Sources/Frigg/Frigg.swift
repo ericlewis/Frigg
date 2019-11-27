@@ -1,6 +1,7 @@
 import Foundation
 import SwiftSoup
 import Combine
+import CoreGraphics
 
 public struct Frigg {
     public static let shared = Frigg()
